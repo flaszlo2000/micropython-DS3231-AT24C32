@@ -1,0 +1,7 @@
+{
+    "urls": [
+        ["__init__.py", "github:flaszlo2000/micropython-DS3231-AT24C32/__init__.py"],
+        ["ds3231.py", "github:flaszlo2000/micropython-DS3231-AT24C32/ds3231.py"]
+    ],
+    "version": "0.1"
+}
